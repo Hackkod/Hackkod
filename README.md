@@ -4,7 +4,7 @@
 
 СУБД: SQLite, PostgreSQL.
 
-Дополнительные технологии: Git, Docker, RabbitMQ, Celery, Redis.
+Дополнительные технологии: Git, Postman, Docker, RabbitMQ, Celery, Redis.
 
 Образование: ЧГУ им. И.Н.Ульянова (2021-2025), ИВТ, Программная инженерия 
 
