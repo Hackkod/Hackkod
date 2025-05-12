@@ -1,10 +1,4 @@
-## Python-разработчик
-
-Фреймворки: Django, DRF, Vue.js.
-
-СУБД: SQLite, PostgreSQL.
-
-Дополнительные технологии: Git, Postman, Docker, RabbitMQ, Celery, Redis.
+## Backend-разработчик
 
 Образование: ЧГУ им. И.Н.Ульянова (2021-2025), ИВТ, Программная инженерия 
 
